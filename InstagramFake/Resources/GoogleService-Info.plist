@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>298331815833-p8alauj4eu6cub17bomkqd8fajb40ht8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.298331815833-p8alauj4eu6cub17bomkqd8fajb40ht8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDsSk-l33Zyy7z6tK60Pdemh1t2n5wS-18</string>
+	<key>GCM_SENDER_ID</key>
+	<string>298331815833</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>udalov.InstagramFake</string>
+	<key>PROJECT_ID</key>
+	<string>instagramfake-8ed21</string>
+	<key>STORAGE_BUCKET</key>
+	<string>instagramfake-8ed21.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:298331815833:ios:cb2ed7c91818d8b894dd08</string>
+</dict>
+</plist>
